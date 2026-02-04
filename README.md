@@ -22,10 +22,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/anshu-techy/leetcode/tree/master/0561-array-partition) |
 | [1480-running-sum-of-1d-array](https://github.com/anshu-techy/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/anshu-techy/leetcode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/anshu-techy/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/anshu-techy/leetcode/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/anshu-techy/leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/anshu-techy/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
