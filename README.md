@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/anshu-techy/leetcode/tree/master/0561-array-partition) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshu-techy/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anshu-techy/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/anshu-techy/leetcode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -37,8 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/anshu-techy/leetcode/tree/master/0561-array-partition) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshu-techy/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/anshu-techy/leetcode/tree/master/0561-array-partition) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshu-techy/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
