@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/anshu-techy/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/anshu-techy/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/anshu-techy/leetcode/tree/master/0326-power-of-three) |
 ## Simulation
@@ -54,9 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/anshu-techy/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/anshu-techy/leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/anshu-techy/leetcode/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/anshu-techy/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
