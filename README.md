@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anshu-techy/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/anshu-techy/leetcode/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/anshu-techy/leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
