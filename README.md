@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/anshu-techy/leetcode/tree/master/0213-house-robber-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anshu-techy/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Two Pointers
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/anshu-techy/leetcode/tree/master/0371-sum-of-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0213-house-robber-ii](https://github.com/anshu-techy/leetcode/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
