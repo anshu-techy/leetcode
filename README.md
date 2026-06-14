@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshu-techy/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshu-techy/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0213-house-robber-ii](https://github.com/anshu-techy/leetcode/tree/master/0213-house-robber-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anshu-techy/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Two Pointers
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshu-techy/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshu-techy/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anshu-techy/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Math
 |  |
