@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshu-techy/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0213-house-robber-ii](https://github.com/anshu-techy/leetcode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/anshu-techy/leetcode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/anshu-techy/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/anshu-techy/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshu-techy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anshu-techy/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/anshu-techy/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/anshu-techy/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/anshu-techy/leetcode/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/anshu-techy/leetcode/tree/master/0213-house-robber-ii) |
+| [0877-stone-game](https://github.com/anshu-techy/leetcode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/anshu-techy/leetcode/tree/master/0881-boats-to-save-people) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/anshu-techy/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
