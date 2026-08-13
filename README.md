@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/anshu-techy/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/anshu-techy/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0650-2-keys-keyboard](https://github.com/anshu-techy/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/anshu-techy/leetcode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshu-techy/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/anshu-techy/leetcode/tree/master/0213-house-robber-ii) |
+| [0650-2-keys-keyboard](https://github.com/anshu-techy/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/anshu-techy/leetcode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
