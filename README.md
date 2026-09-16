@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anshu-techy/leetcode/tree/master/0015-3sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshu-techy/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshu-techy/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0213-house-robber-ii](https://github.com/anshu-techy/leetcode/tree/master/0213-house-robber-ii) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anshu-techy/leetcode/tree/master/0015-3sum) |
 | [0881-boats-to-save-people](https://github.com/anshu-techy/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshu-techy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anshu-techy/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anshu-techy/leetcode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/anshu-techy/leetcode/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/anshu-techy/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshu-techy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
